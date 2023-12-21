@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Czech version of the Questions-words dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Patrik
+    family-names: Müller
+identifiers:
+  - type: url
+    value: 'https://github.com/patmull/questions-words-cz'
+repository-code: 'https://github.com/patmull/questions-words-cz'
+date-released: '2022-09-09'
